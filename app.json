@@ -9,8 +9,8 @@
         "Telegram",
         "nazriya"
     ],
-    "website": "https://github.com/MR-JINN-OF-TG",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot",
+    "website": "https://github.com/sameerja1",
+    "repository": "https://github.com/sameerja1/Song-Downloader-Bot",
     "success_url": "https://t.me/NAZRIYASUPPORT",
     "env": {
         "BOT_TOKEN": {
