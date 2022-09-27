@@ -22,7 +22,7 @@ A BOT TO DOWNLOAD SONGS FROM YOUTUBE.
 # Credits 
 
 - [Muhammed](https://github.com/PR0FESS0R-99). 
-- [Pyrogram](https://github.com/pyrogram/pyrogram) and For [Me](https://github.com/MR-JINN-OF-TG). 
+- [Pyrogram](https://github.com/pyrogram/pyrogram) and For [Me](https://github.com/sameerja1). 
 
 
 # Deploy To Heroku
@@ -30,7 +30,7 @@ A BOT TO DOWNLOAD SONGS FROM YOUTUBE.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MR-JINN-OF-TG/Song-Downloader">
+<a href="https://heroku.com/deploy?template=https://github.com/sameerja1/Song-Downloader">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
